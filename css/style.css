@@ -279,7 +279,7 @@ fieldset {
     margin: -26px 0 0 -26px;
     font-size: 40px;
     color: #ffffff;
-    font-family: 'Nosifer', cursive;
+    font-family: 'Poppins', cursive;
 }
 
 
@@ -309,13 +309,13 @@ fieldset {
     font-weight: 600;
     font-size: 25px;
     width: 92px;
-    font-family: 'Nosifer', cursive;
+    font-family: 'Poppins', cursive;
 }
 
 .navigation-menu .navbar-nav li a {
     color: #ffffff;
     text-transform: uppercase;
-    font-family: 'Nosifer', cursive;
+    font-family: 'Poppins', cursive;
     font-size: 15px;
     letter-spacing: 1px;
     padding: 30px 15px;
